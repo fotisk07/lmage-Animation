@@ -1,0 +1,6 @@
+seed : 42
+batch_size : 16
+num_workers : 0
+shuffle : True
+frames : 10
+path: "data/moving_mnist.npy"
